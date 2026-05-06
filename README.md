@@ -7,7 +7,10 @@ This was a collaborative university project where I acted as the **Team Leader**
 
 ## 🎯 The Business Problem (The "Why")
 **Target User:** Pharmacy Operations Manager
+
+
 **Pain Point:** The manager previously lacked a consolidated, visual view of sales performance. Without this, they could not quickly identify which drug categories were driving revenue, whether sales followed predictable seasonal patterns, or which months underperformed. This made stock planning and staff scheduling highly inefficient.
+
 
 **Solution:** An interactive Power BI dashboard that tracks 57 drugs classified across 8 Anatomical Therapeutic Chemical (ATC) categories, allowing the manager to drill down into yearly, monthly, daily, and hourly trends.
 
